@@ -2,7 +2,7 @@
 
 #### Hello 👏
 
-> I'm a web develoler.
-> I'm JohnsenZhou
+> I'm a web developer.
+> I'm JohnsenZhou.
 
 🔗 https://johnsenzhou.com
